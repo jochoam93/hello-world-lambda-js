@@ -1,0 +1,25 @@
+{
+  "name": "hello-world-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+     
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jochoam93/hello-world-lambda-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jochoam93/hello-world-lambda-js/issues"
+  },
+  "homepage": "https://github.com/jochoam93/hello-world-lambda-js#readme",
+  "dependencies": {
+    "jest": "^30.0.5"
+  }
+}
